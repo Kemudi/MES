@@ -1,1 +1,1 @@
-# FEM - calculating temperature gain in 2D environment.  
+# FEM - calculating temperature rise in 2D environment.  
